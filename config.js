@@ -3,7 +3,7 @@ const CONFIG = {
   username: "amalikqx",
   bio: "Suka ngopi dan ngoding tengah malam.",
   
-  profileUrl: "https://raw.githubusercontent.com/almalikqx/amalikqx-profile/refs/heads/main/IMG_20260712_171735.jpg",
+  profileUrl: "IMG_20260712_171735.jpg",
   coverUrl: " https://i.pinimg.com/736x/0e/de/a0/0edea0f0a6da6f63e8dda679369d8398.jpg",
   
   socials: {
