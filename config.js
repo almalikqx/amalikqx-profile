@@ -4,7 +4,7 @@ const CONFIG = {
   bio: "Suka ngopi dan ngoding tengah malam.",
   
   profileUrl: "https://www.facebook.com/share/1EvKsLcF9v/",
-  coverUrl: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop",
+  coverUrl: " https://i.pinimg.com/736x/0e/de/a0/0edea0f0a6da6f63e8dda679369d8398.jpg",
   
   socials: {
     youtube: "https://youtube.com/@amalikqx",
