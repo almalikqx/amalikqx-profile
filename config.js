@@ -3,7 +3,7 @@ const CONFIG = {
   username: "amalikqx",
   bio: "Suka ngopi dan ngoding tengah malam.",
   
-  profileUrl: "https://www.facebook.com/photo.php?fbid=3679036175720708&set=a.1377865215837827",
+  profileUrl: "https://github.com/almalikqx/amalikqx-profile/blob/main/IMG_20260712_171735.jpg",
   coverUrl: " https://i.pinimg.com/736x/0e/de/a0/0edea0f0a6da6f63e8dda679369d8398.jpg",
   
   socials: {
