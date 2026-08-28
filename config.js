@@ -1,7 +1,7 @@
 const CONFIG = {
   name: "Malik",
   username: "amalikqx",
-  bio: "Software Engineer & UI Designer. Suka ngopi dan ngoding tengah malam.",
+  bio: "Suka ngopi dan ngoding tengah malam.",
   
   profileUrl: "https://www.facebook.com/share/1EvKsLcF9v/",
   coverUrl: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop",
