@@ -11,7 +11,7 @@ const CONFIG = {
     facebook: "https://facebook.com/almalikqx", // Bakal tetep nampil @malik
     instagram: "https://instagram.com/almalikqx",
     threads: "https://threads.net/@almalikqx",
-    x: "https://x.com/amalikqx",
+    x: "https://x.com/almalikqx",
     tiktok: "https://tiktok.com/@amalikqx"
   }
 };
